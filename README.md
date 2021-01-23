@@ -3,7 +3,7 @@
 
 ![GitHub Logo](/images/dash.png)
 
-1. Scrape Reddit stock market comments 
-2. Perform sentiment analysis with ml model
-3. Stream results to database
-4. Interactive Web app with Flask and Dash
+1. Scrape Reddit stock market comments with Reddit API.
+2. Perform sentiment classification with machine learning.
+3. Stream results to MySQL database.
+4. Run interactive web application with a Flask REST API and Dash.
